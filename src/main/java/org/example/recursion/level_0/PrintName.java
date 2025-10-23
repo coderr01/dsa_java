@@ -1,6 +1,6 @@
 package org.example.recursion.level_0;
 
-public class PrintName {
+public class PrintName implements BaseRecursion {
 
     public static void recursionExample(){
         String name = "ABC";

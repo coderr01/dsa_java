@@ -1,6 +1,6 @@
 package org.example.recursion.level_0;
 
-public class PrintNtoOne implements BaseRecursion{
+public interface BaseRecursion {
 
     public static void recursionExample(){
 
